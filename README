@@ -1,7 +1,7 @@
 # PRS-CS wrapper for EXT-23andme 
 This wrapper runs the PRS-CS procedure and creates polygenic index for EXT-23andme for the prediction sample  
 
-The zip file contains the PRS-CS source codes (version as of Jun 4, 2021) downloaded from https://github.com/getian107/PRScs. Please make sure you cite the original PRS-CS paper: https://www.nature.com/articles/s41467-019-09718-5
+This wrapper contains the PRS-CS source codes (version as of Jun 4, 2021) downloaded from https://github.com/getian107/PRScs. Please make sure you cite the original PRS-CS paper: https://www.nature.com/articles/s41467-019-09718-5
 
 
 
